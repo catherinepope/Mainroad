@@ -1,4 +1,4 @@
-baseURL = 'https://netlify.app/cp-mainroad'
+baseURL = 'https://cp-mainroad.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "mainroad"
